@@ -1,0 +1,9 @@
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\bin\Debug\CRC16CCITT.exe.config
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.csprojResolveAssemblyReference.cache
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.Form1.resources
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.Properties.Resources.resources
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.csproj.GenerateResource.Cache
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\bin\Debug\CRC16CCITT.exe
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\bin\Debug\CRC16CCITT.pdb
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.exe
+C:\Users\455761\Desktop\Dragunov\ItelligenceAppliance\CRC16CCITT\CRC16CCITT\obj\Debug\CRC16CCITT.pdb
